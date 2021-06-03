@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the worshipful, Mr. Steel the recorder of London To be communicated to the rest of the bench or goal-delivery at Guild-hall: these with speed.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25984</idno><idno type="EEBO-CITATION">99828426_207813</idno>
+  <idno type="VID">207813</idno>
+  <idno type="EEBO-PROQUEST">2264213879</idno>
+  
+            <idno type="STC">Wing L2109A</idno>
+            <idno type="PROQUEST">99828426</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828426e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207813)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1954:4 or 2435:8b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the worshipful, Mr. Steel the recorder of London To be communicated to the rest of the bench or goal-delivery at Guild-hall: these with speed.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: John Lilburne.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Copy at reel 2435:8b bound and filmed following Wing B1682A.</note>
+                  <note>Reproductions of the originals in the Union Theological Seminary Library, New York (reel 1954) and British Library (reel 2435).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+               <term type="geographic_name">London (England) --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:207813:1"/>
+            <pb n="1" facs="tcp:207813:1"/>
+            <head>For the Worshipful, Mr. <hi>Steel</hi> the Recorder of <hi>London.</hi> TO BE Communicated to the rest of the Bench or Goal-Delivery at <hi>Guild-hall:</hi> These with speed.</head>
+            <opener>
+               <salute>Mr. Recorder,</salute>
+            </opener>
+            <p>YOur Profession being a Lawyer, and as you are Recorder of <hi>Lond<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> you are often the mouth of the Court in <hi>Old-Bayly,</hi> and have several days been so in my case; and as I hear, you are like to be so again upon Wednesday next: In which consideration I judge it the most prop<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r for me in my present condition to writ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unto you, and to acquaint you, that I finde <hi>Moses</hi> the mouth of God, charging the Judges of <hi>Israel,</hi> that they shall hear the causes between their brethren, and judge righteously betwixt every man and his brother, and the stranger that is with him: <hi>Ye shall not,</hi> saith he, <hi>respect persons in judgement, but ye shall hear the small as well as the great, you shall not be a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the face of man, for the judgement is G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds,</hi> Deut. 1.16, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>7. and in Deut. 16.18, 19.20. they are expresly commanded to do that which is al<g ref="char:EOLhyphen"/>together just, that they may live long, and inherit the Land which the Lord hath given them.</p>
+            <p>And saith the wise man by the Spirit of God, <hi>Prov.</hi> 28.4. <hi>A Land is established by Judgement.</hi>
+            </p>
+            <p>Sir, by the Law of <hi>England,</hi> I know you know a Judges Office, and a Prisoners right by Law; and according to Law, you have, as my right, assigned me Counsel, to fit my self to plead matter of Law for my life.</p>
+            <p>Yet while I am a pursuing my business according to your late Or<g ref="char:EOLhyphen"/>der at the Sessions, and am peaceable and quiet in my imprison<g ref="char:EOLhyphen"/>ment, and neither indeavoring to make an escape, or any way quar<g ref="char:EOLhyphen"/>relling with my fellow prisoners, or my Keepers: I am by Capt. <hi>Dike</hi> the Keeper of Newgate, served with an Order in these words:
+<q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="Parliamentary_order">
+                           <pb n="2" facs="tcp:207813:2"/>
+                           <head>Tuesday the second of August, 1653.</head>
+                           <p>ORdered by the Parliament, That Lieutenant Collonel <hi>John Lilburne</hi> be kept cl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>se Prisoner, and that the Keeper of Newgate do take care the same be done accordingly.</p>
+                           <closer>
+                              <signed>
+                                 <hi>Henry Scobel, Clerk of the Parl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>ament.</hi>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>Upon which Order the said Mr. <hi>Dike</hi> was pleas<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to take upon him to render such an interpretation of it, as I dare presume my head to a farthing teaken, that is no way warranted by the Law of <hi>England,</hi> in any kinde whatsoever; <hi>(viz)</hi> Tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I must be such a close Prisoner, as that he must keep all my friends <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and he and his under Keeper with strictness ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h accordi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gly ex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cuted it ever since; although truly, I cannot in r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ason and c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eve, that the Parliament themselves by the said Order intend any such thing, because in their late Declaration of the 12 of July last, and the second page thereof, they declare, <hi>That they will dem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an them<g ref="char:EOLhyphen"/>selves in all things, as becometh those who are set by God for the go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d of all, and in all, to be as tender of the lives, estates, liberties, just rights and pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>perties of all others, as we are</hi> (say they) <hi>of our selves and posterities.</hi> But if this close restraint of mine from the visits of my Friends, Law<g ref="char:EOLhyphen"/>yer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Atturneys, Solicitors, or Messengers to go up and down about my affairs, be their int<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ions by the said Order, I must not only a<g ref="char:EOLhyphen"/>ver their said Order to be against all the d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>clared Laws of Liberties and Freedom in <hi>England,</hi> against the Rules of Justice amongst Hea<g ref="char:EOLhyphen"/>thens, Pagans and Tyrants, but against the very tenor of their own foresaid promises, and thereby themselves rendred to be men void of faith or truth, whose solemn words and promises are not in the least to be regarded, should it be suppos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d that such an interpretati<g ref="char:EOLhyphen"/>on by their consent, so contrary t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Law, should be rendred of their foresaid Order, as to keep me close Pris<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ner from speaking with my Friends, Counsellors, Solicitors or Messengers, when I am upon tryal for my life.</p>
+            <p>Sure I am, the late Parliament in the purest of their days, before they were corrupted and defiled, in their grand and first Remon<g ref="char:EOLhyphen"/>strance of <hi>December,</hi> 1641. complains of such cl se imprisonment, acted upon my self and several oth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs by the la e King and his Mini<g ref="char:EOLhyphen"/>ster<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as the acti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns of most barbarous <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>njustice, oppression and ty<g ref="char:EOLhyphen"/>ranny, as y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u may read in the first part of the Parliaments Books of Declarations, page 8. although neither my sel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then, nor any of my there menti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned fellow sufferers, were then in the least upon tryal for our lives, when such cl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se rest<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aint as is there complained of was exercised upon us; neither were any of us there in that Decla<g ref="char:EOLhyphen"/>ration
+<pb n="3" facs="tcp:207813:2"/> mentioned, in the least condemned by the said King, or his Male Administrators of Justice, without some Process of Law, even in misdeamenors; as I have been for Felony by the late Parliament without any process of Law at all, if the Act of Banishment upon which you strongly endeavor to take away my life, should concern me in the least.</p>
+            <p>And sure I am, the then Parliament or House of Commons, up<g ref="char:EOLhyphen"/>on the fourth of <hi>May</hi> 1641. voted such unjust close imprisonment, and other the like illegal proceedings against me (which yet never rea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hed to any sentence for the loss of life) to be not only illegal, but also bloody, wicked, cruel, harbarous and tyrannical, and that I ought to have reparations there ore.</p>
+            <p>And sure I am, at the Tryals of <hi>Strafford, Canterbury, Hamilton</hi> or <hi>Capel,</hi> and that for Acts of the highest of Treasons, the late Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lia<g ref="char:EOLhyphen"/>ment never exercised any such cl<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e imprisonments upon them as is now done upon me.</p>
+            <p>And also sure I am, that although <hi>I</hi> was taken as a Pris<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ner of War, sighting most resolutely against the King, and carried from <hi>Brandford</hi> a Prisoner to <hi>Oxford</hi> Castle, and there at one time suffici<g ref="char:EOLhyphen"/>ently c u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted from him by the present Earl of <hi>Kingstone,</hi> th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> late Earl of <hi>Arundel,</hi> the Lord <hi>Dunsmore,</hi> and the Lord <hi>Andover,</hi> to all whose alurements and threats I sufficiently held our and avowed flag of defiance and scorn, upon which I was laid in I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons, and kept close Prisoner from the visits of my friends, which when I came before Judge <hi>Heath</hi> for a tryal for my life at the common Law, and com<g ref="char:EOLhyphen"/>plained of the aforesaid usuages as against Law: he justly acknow<g ref="char:EOLhyphen"/>ledged them to be so, and immediately at the Bar ordered me pre<g ref="char:EOLhyphen"/>sent release from them both, which I legally enjoyed, and thereby had an opportunity presently to post away a Letter to Mr. <hi>Lenthal</hi> the Speaker of the Parliament, another to yong Sir <hi>Henry Vane,</hi> and a third to my wife, which said Letters produced a Declaration from the Lords and Commons of the 17 of <hi>December</hi> 1652, printed in the first part of their Books of Declarations, page 802. that instru<g ref="char:EOLhyphen"/>mentally then saved my life.</p>
+            <p>And sure I am, that the Apostle <hi>Paul</hi> was accused by his most ma<g ref="char:EOLhyphen"/>licious advers<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ries, of higher things then any is pretended to be laid unto my charge, even to be a pestlien<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llow, a mover of sed<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion among the Jews throughout the world, and a Ring lea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er of the Sect of the Nazarens, y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t his Heathen Roman Judges examined the matter legally, and strictly, and expresly, notwithstanding the said grievous accusation ordered <hi>Pauls</hi> K<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>per or Jayl<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, to let him have liberty: and that he should forbid none of h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s acquaintance to minister or come unto him, <hi>Acts</hi> 24, 5, 8, 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a, when upon his Appeal to <hi>Caesar</hi> as Supreme (the li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erty of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amous Common<g ref="char:EOLhyphen"/>wealth of <hi>Rome</hi> by <hi>Julius</hi> and <hi>Augustus Caesar</hi> b<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng lately overthrown and subdued) he came to <hi>Rome,</hi> the grand Tyran<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Ner<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> being, as I judge, by his expre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sions in his Epistle to the <hi>Philippians,</hi> the pre<g ref="char:EOLhyphen"/>sent
+<pb n="4" facs="tcp:207813:3"/> Emperor, permitted <hi>Paul</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> dwell two whole years in his own hired house, and to receive all with freedom, without the least re<g ref="char:EOLhyphen"/>straint, that came unto him, <hi>Acts</hi> 28, 30.</p>
+            <p>Sir, as my undoubted <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight by Law, you assigned me Counsel to fit me with a plea t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preserve my life at this next Sessions: and yet the Jay<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or of your Court d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>prives me of all the means that tends to that end And so deals as bad with me, as the old Tyrant <hi>Pha<g ref="char:EOLhyphen"/>roah</hi> dealt with the poor Israelites, when he made them make brick without straw; for which hard and cruel bondage, they sighed and groaned unto the Lord, and he glori<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>usly delivered them, to the destruction of <hi>Pharoah,</hi> and all his cruel Tyrannical inslaving Task-mast<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs: Wherefore Sir, I cannot do less in conscience to the wel<g ref="char:EOLhyphen"/>fare of my own life, and the Nations liberties and freedoms, then to demand of you upon sight and knowledge hereof, your Order, as I had fr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dge <hi>Heath</hi> (who was stiled and called a Traytor judge at <hi>Oxford</hi>) to deliver me from my pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sent illegal, unjust and tyran<g ref="char:EOLhyphen"/>nical testraint (in my hard and unquiet imprisonment) from speak<g ref="char:EOLhyphen"/>ing with my Friends, Counsel, Solicitors and Messengers; or else the great and mighty God of heaven and earth judge betwixt you and me, and all the rest of your Associates, that with force and vio<g ref="char:EOLhyphen"/>lence, without all shadow or pretended colour of Law or Justice, pursue the last drop of my innocent blood, and so I rest,</p>
+            <closer>
+               <signed>
+                  <hi>A Faithful and true hearted Englishman,</hi> John Lilburne.</signed>
+               <dateline>
+                  <hi>From my barbarous and Tyrannical Imprisonment</hi>
+                  <date>
+                     <hi>this</hi> 8. <hi>of Aug.</hi> 1653.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>I have by a private hand sent this to some of my friends to deli<g ref="char:EOLhyphen"/>ver to you, and be witnesses of your Answer.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207813:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
